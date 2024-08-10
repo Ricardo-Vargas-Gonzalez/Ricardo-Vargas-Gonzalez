@@ -13,7 +13,7 @@
 </p>
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/Ricardo-Vargas-Gonzalez" /> 
-  <img src="https://img.shields.io/www.youtube.com/@ricardo_vargas_caja_negra" alt="Youtube Music Chanel" />
+  <!-- <img src="https://img.shields.io/www.youtube.com/@ricardo_vargas_caja_negra" alt="Youtube Music Chanel" />
   <img src="https://img.shields.io/twitch/status/michingeniero" />
   <img src="https://img.shields.io/discord/1025468252022915232?logo=discord" alt="chat on Discord">
 </p>
@@ -21,7 +21,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JonnySC&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 💻 My workspace<br/><br/>
 <img src="https://img.shields.io/badge/windows 11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4000X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
@@ -74,7 +74,7 @@
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
-**Operating Systems**
+**Operating Systems** -->
 
 </details>
 
